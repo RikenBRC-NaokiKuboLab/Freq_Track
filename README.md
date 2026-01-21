@@ -23,6 +23,9 @@ Our methods achieves finding disease-related genes
 ![Freq_Track overview](GOfunction.png)
 
 Our methods achieves better distinguish for diseases comparing using traditional DEGs
+![Freq_Track overview](DistanceAnalysis.png)
+
+Our methods achieves Trajectory Analysis for those similar cells that cannot perform trajectory analysis using traditional methods
 ![Freq_Track overview](TrajectoryRes.png)
 
 
