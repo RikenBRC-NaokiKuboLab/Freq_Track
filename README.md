@@ -16,12 +16,6 @@ The project focuses on:
 This repository contains the core modeling code, analysis pipelines, and example workflows used in this study.
 
 ## Illustration
-This is the overview of the Project:
-![Freq_Track overview](methods.png)
-
-The pipeline of trajectory analysis and sensitive attriburion:
-![Freq_Track overview](trajectory.png)
-
 Our methods achieves batch correction
 ![Freq_Track overview](batchCorrection.png)
 
