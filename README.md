@@ -19,8 +19,19 @@ This repository contains the core modeling code, analysis pipelines, and example
 This is the overview of the Project:
 ![Freq_Track overview](methods.png)
 
-The pipeline of trajectory analysis:
+The pipeline of trajectory analysis and sensitive attriburion:
 ![Freq_Track overview](trajectory.png)
+
+Our methods achieves batch correction
+![Freq_Track overview](batchCorrection.png)
+
+Our methods achieves finding disease-related genes
+![Freq_Track overview](GOfunction.png)
+
+Our methods achieves better distinguish for diseases comparing using traditional DEGs
+![Freq_Track overview](TrajectoryRes.png)
+
+
 
 ## Updates
 (01/21/2026) We have achieved the main goals and expanding this project.
